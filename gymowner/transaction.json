@@ -16,5 +16,7 @@
         "personName": "MR X",
         "cost": "34 $"
       }
-    ]
+    ],
+    "moneyPaid":"30 $",
+    "moneyReamin":"20 $"
 }
