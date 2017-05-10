@@ -9,5 +9,14 @@
 		"passUseDate":"1288323623006" ,
 		"passValid": "Yes",
 		"passValidTill": "1288323623006"
-	}]
+	},{
+		"passId": "2",
+		"personName": "Ajax",
+		"cost": "40 $",
+		"purchaseDate": "1288323623006",
+		"passUseDate":"1288323623006" ,
+		"passValid": "No",
+		"passValidTill": "1288323623006"
+	}
+	]
 }
