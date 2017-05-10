@@ -1,7 +1,20 @@
 {
-    "gymOwnertran": 
+  
+    "gymOwnertran": [
       {
-        "name": "Jeff Jevit",
-        "Number": "3179926345"
+        "passId": "1",
+        "personName": "MR X",
+        "cost": "30 $"
+      },
+      {
+        "passId": "2",
+        "personName": "MR X",
+        "cost": "45 $"
+      },
+      {
+        "passId": "3",
+        "personName": "MR X",
+        "cost": "34 $"
       }
+    ]
 }
