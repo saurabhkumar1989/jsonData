@@ -4,17 +4,20 @@
       {
         "passId": "1",
         "personName": "MR X",
-        "cost": "30 $"
+        "cost": "30 $",
+        "purchaseDate":"1288323623006"
       },
       {
         "passId": "2",
         "personName": "MR X",
-        "cost": "45 $"
+        "cost": "45 $",
+        "purchaseDate":"1288323623006"
       },
       {
         "passId": "3",
         "personName": "MR X",
-        "cost": "34 $"
+        "cost": "34 $",
+        "purchaseDate":"1288323623006"
       }
     ],
     "moneyPaid":"30 $",
