@@ -1,5 +1,5 @@
 {
-    "gymOwnerInfo": [
+    "gymOwnerInfo": 
       {
         "name": "Jeff Jevit",
         "Number": "3179926345",
@@ -8,3 +8,4 @@
         "passValid": "Yes",
         "passValidTill": "1288323623006"
       }
+}
